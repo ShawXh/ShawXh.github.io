@@ -1,6 +1,6 @@
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence and data mining on graphs.
 
-Here is my [cv](/assets/cv.pdf).
+Here is my [CV](/assets/cv.pdf).
 
 # News
 2021/05 One paper (first-author) was accepted by KDD 2021
@@ -16,8 +16,7 @@ DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao
 # Working Experience
 
 **Applied Scientist Intern**
-
-AWS Shanghai AI Lab, 2019.10-2020.04
+<dd>AWS Shanghai AI Lab, 2019.10-2020.04</dd>
 
 # Education
 **Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - University of New South Wales (2021.09-present)**
