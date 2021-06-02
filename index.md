@@ -1,5 +1,6 @@
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence and data mining on graphs.
 <br>Here is my [CV](/assets/cv.pdf).<br>
+<br>
 
 # News
 2021/05 One paper (first-author) was accepted by KDD 2021
@@ -9,16 +10,20 @@ I am currently a Ph.D. student at Department of Computer Science and Engineering
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021)
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020)
+<br>[code](https://github.com/ShawXh/BTWalk) & [paper](/assets/btwalk.pdf)
 
 DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020)
+<br>[code](https://github.com/awslabs/dgl-ke) & [paper](https://arxiv.org/pdf/2004.08532)
 
 # Working Experience
 
-**Applied Scientist Intern**
+Applied Scientist Intern
 <br>AWS Shanghai AI Lab, 2019.10-2020.04<br/>
+<br>In DGL team, advised by Prof. Zheng Zhang<br/>
+<br>I re-implement Deepwalk([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)) and LINE([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line))<br/>
 
 # Education
-**Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - University of New South Wales (2021.09-present)**
+Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - University of New South Wales (2021.09-present)
 <br>Adivsor: Prof. Junchi Yan 严骏驰 (SJTU), Prof. Xuemin Lin 林学民 (UNSW)<br/>
 
 M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity (2019.09-2021.06)
