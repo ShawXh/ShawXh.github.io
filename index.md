@@ -4,7 +4,7 @@ I am currently a Ph.D. student at Department of Computer Science and Engineering
 Apart from that, I am enthusiastic about **street workout** and plan to establish a community in SJTU. If you are interested, please feel free to contact me!
 
 ## News
-2021/05 One paper (first-author) on multiplex network embedding and contrastive learning was accepted by SIGKDD 2021
+(under construction)
 
 ## Publications
 
