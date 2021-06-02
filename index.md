@@ -1,10 +1,10 @@
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence and data mining on graphs.
-<br>Here is my [CV](/assets/cv.pdf) and [the google scholar page](https://scholar.google.co.jp/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Ug2uy8TTz9LLUVImqS1GvxF8szHNXC6qjtWCkWtPJgsSqaWriZd18DqwBhSmlZolhOVZyFR0t9pq4BYZi9ceipdUwrZFU3f8L9Z_9WYOPEy4l6Vs&user=ytxxSWAAAAAJ).
+<br>Here are my [CV](/assets/cv.pdf) and [the google scholar page](https://scholar.google.co.jp/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Ug2uy8TTz9LLUVImqS1GvxF8szHNXC6qjtWCkWtPJgsSqaWriZd18DqwBhSmlZolhOVZyFR0t9pq4BYZi9ceipdUwrZFU3f8L9Z_9WYOPEy4l6Vs&user=ytxxSWAAAAAJ).
 
 Apart from that, I am enthusiastic about **street workout** and plan to establish a community in SJTU. If you are interested, please feel free to contact me!
 
 ## News
-2021/05 One paper (first-author) was accepted by SIGKDD 2021
+2021/05 One paper (first-author) on multiplex network embedding and contrastive learning was accepted by SIGKDD 2021
 
 ## Publications
 
