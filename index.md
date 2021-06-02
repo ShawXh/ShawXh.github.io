@@ -33,4 +33,4 @@ B.E. (**with honor**), Cyber Science and Engineering, Shanghai Jiao Tong Univers
 * * *
 
 ### Contacts
-E-main: taxuexh@sjtu.edu.cn
+E-mail: taxuexh@sjtu.edu.cn
