@@ -1,6 +1,5 @@
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence and data mining on graphs.
 <br>Here is my [CV](/assets/cv.pdf).<br>
-<br>
 
 # News
 2021/05 One paper (first-author) was accepted by KDD 2021
@@ -10,10 +9,10 @@ I am currently a Ph.D. student at Department of Computer Science and Engineering
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021)
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020)
-<br>[code](https://github.com/ShawXh/BTWalk) & [paper](/assets/btwalk.pdf)
+<br>[code](https://github.com/ShawXh/BTWalk) & [paper](/assets/btwalk.pdf)<br/>
 
 DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020)
-<br>[code](https://github.com/awslabs/dgl-ke) & [paper](https://arxiv.org/pdf/2004.08532)
+<br>[code](https://github.com/awslabs/dgl-ke) & [paper](https://arxiv.org/pdf/2004.08532)<br/>
 
 # Working Experience
 
