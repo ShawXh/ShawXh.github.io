@@ -17,9 +17,9 @@ DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao
 # Working Experience
 
 Applied Scientist Intern
-<br>AWS Shanghai AI Lab, 2019.10-2020.04<br/>
-<br>In DGL team, advised by Prof. Zheng Zhang<br/>
-<br>I re-implement Deepwalk([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)) and LINE([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line))<br/>
+<br>AWS Shanghai AI Lab, 2019.10-2020.04
+<br>In DGL team, advised by Prof. Zheng Zhang.
+<br>I re-implement Deepwalk([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)) and LINE([code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)).
 
 # Education
 Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - University of New South Wales (2021.09-present)
@@ -28,4 +28,4 @@ Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - Univers
 M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity (2019.09-2021.06)
 <br>Advisor: Prof. Junchi Yan 严骏驰, Prof. Li Pan 潘理<br/>
 
-B.E (**with honor**), Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019.06)
+B.E. (**with honor**), Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019.06)
