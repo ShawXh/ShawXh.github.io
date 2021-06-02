@@ -31,6 +31,3 @@ M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity (2019.09-202
 B.E. (**with honor**), Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019.06)
 
 * * *
-
-### Contacts
-E-mail: taxuexh@sjtu.edu.cn
