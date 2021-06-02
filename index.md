@@ -7,7 +7,7 @@ Here is my [CV](/assets/cv.pdf).
 
 # Publications
 
-Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. KDD 2021)
+Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021)
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020)
 
@@ -16,7 +16,7 @@ DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao
 # Working Experience
 
 **Applied Scientist Intern**
-<dd>AWS Shanghai AI Lab, 2019.10-2020.04</dd>
+<br>AWS Shanghai AI Lab, 2019.10-2020.04<br/>
 
 # Education
 **Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University - University of New South Wales (2021.09-present)**
