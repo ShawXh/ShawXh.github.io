@@ -8,12 +8,12 @@ Apart from that, I am enthusiastic about **street workout** and plan to establis
 
 ## Publications
 
-Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021)
+Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021 _(CCF-A)_)
 
-BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020)
+BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020 _(CCF-A)_)
 <br>[[code](https://github.com/ShawXh/BTWalk)] & [[paper](/assets/btwalk.pdf)]
 
-DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020)
+DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020 _(CCF-A)_)
 <br>[[code](https://github.com/awslabs/dgl-ke)] & [[paper](https://arxiv.org/pdf/2004.08532)]
 
 ## Working Experience
