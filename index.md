@@ -6,6 +6,10 @@ Apart from that, I am enthusiastic about **street workout** and plan to establis
 ## News
 (under construction)
 
+## On-going Projects
+
+Robust Learning for NCE-based Embedding (TKDE'21, under review)
+
 ## Publications
 
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021 _(CCF-A)_)
