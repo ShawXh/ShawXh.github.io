@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
-title: Hao Xiong 熊昊
-description: Ph.D student @SJTU-ThinkLab, Department of Computer Science and Engineering
-contacts: taxuexh AT sjtu.edu.cn
-logo: /pics/me.jpeg
-street_workout_log: /pics/street_workout_log.jpeg
+title: 懦夫街健
+description: Street Workout @SJTU
+contacts: 
+logo:
 show_downloads: false
 google_analytics:
