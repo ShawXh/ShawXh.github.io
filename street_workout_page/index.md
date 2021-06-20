@@ -13,6 +13,7 @@ Former @SJTU:
 
 <br>Vincent Wong
 <br>Sondre Burg
+<br>Nicolas Chung
 <br>小蝌蚪
 <br>Monkey.D.行者
 <br>李尔玉
