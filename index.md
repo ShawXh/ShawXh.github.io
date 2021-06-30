@@ -9,10 +9,12 @@ Apart from that, I am enthusiastic about **street workout** ([page link](./stree
 ## On-going Projects
 
 Robust Learning for NCE-based Embedding (TKDE'21, under review)
+<br>[[code](https://github.com/ShawXh/RNCE)]
 
 ## Publications
 
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021 _(CCF-A)_)
+<br>[[poster](/assets/cm2ne_poster.pdf)] & [[slides](/assets/cm2ne_slides.pdf)]
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding (**Hao Xiong**, Junchi Yan. TKDE 2020 _(CCF-A)_)
 <br>[[code](https://github.com/ShawXh/BTWalk)] & [[paper](/assets/btwalk.pdf)]
