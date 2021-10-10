@@ -1,7 +1,8 @@
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence, data mining on graphs, and solving combinatorial problems via ML approaches.
 <br>Here are my [CV](/assets/cv.pdf) and [the google scholar page](https://scholar.google.co.jp/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Ug2uy8TTz9LLUVImqS1GvxF8szHNXC6qjtWCkWtPJgsSqaWriZd18DqwBhSmlZolhOVZyFR0t9pq4BYZi9ceipdUwrZFU3f8L9Z_9WYOPEy4l6Vs&user=ytxxSWAAAAAJ).
 
-Apart from that, I am one of the co-founders of **SJTU-calisthenics**. Here is [my channel](https://www.douyin.com/user/MS4wLjABAAAA6Ry-RadlADDP3UstLK9oqB0uSH_Ee5NMtJjWzwnUbeI?enter_from=main_page&enter_method=top_bar) on douyin.com.
+Apart from that, I am one of the co-founders of **SJTU-calisthenics**. 
+
 # On-going Projects
 
 Robust Learning for NCE-based Embedding (TKDE'21, under review)
