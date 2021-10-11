@@ -36,8 +36,9 @@ B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019
 
 ## Awards
 
-Honorable Bachelor Degree (2019.06)
-<br>China National Scholarship for Ph.D Students (2021.09)
+The First Prize of National College Physics Competition (2016.12)
+<br>Honorable Bachelor Degree (2019.06)</br>
+<br>China National Scholarship for Ph.D Students (2021.09)</br>
 
 
 * * *
