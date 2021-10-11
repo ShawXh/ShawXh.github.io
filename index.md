@@ -3,7 +3,7 @@ I am currently a Ph.D. student at Department of Computer Science and Engineering
 
 Apart from that, I am one of the co-founders of **SJTU-calisthenics**. 
 
-# On-going Projects
+## On-going Projects
 
 Robust Learning for NCE-based Embedding (TKDE'21, under review)
 <br>[[code](https://github.com/ShawXh/RNCE)]
