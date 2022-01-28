@@ -3,12 +3,16 @@ I am currently a Ph.D. student at Department of Computer Science and Engineering
 
 Apart from that, I am one of the co-founders of **SJTU-Calisthenics**. 
 
+If you are interested in my research or calisthenics, feel free to contact me.
+
 ## On-going Projects
 
-Robust Learning for NCE-based Embedding (TKDE'21, under review)
-<br>[[code](https://github.com/ShawXh/RNCE)]
+Generalization of Neural Combinarotial Optimization
 
 ## Publications
+
+Learning Regularized Noise Contrastive Estimation for Robust Network Embedding (**Hao Xiong**, Junchi Yan. TKDE'22, _(CCF-A)_)
+<br>[[code](https://github.com/ShawXh/RNCE)]
 
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021 _(CCF-A)_)
 <br>[[poster](/assets/cm2ne_poster.pdf)] & [[slides](/assets/cm2ne_slides.pdf)] & [[presentation](https://files.atypon.com/acm/0e525787f8d7f22ebd7bd0516a387a77)] & [[paper](https://dl.acm.org/doi/10.1145/3447548.3467227)]
