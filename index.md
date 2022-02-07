@@ -10,7 +10,7 @@ Generalization of Neural Combinarotial Optimization
 ## Publications
 
 Learning Regularized Noise Contrastive Estimation for Robust Network Embedding (**Hao Xiong**, Junchi Yan\*, Zengfeng Huang. TKDE'22, _(CCF-A)_)
-<br>[[code](https://github.com/ShawXh/RNCE)]
+<br>[[code](https://github.com/ShawXh/RNCE)] & [[paper](/assets/gomune.pdf)]
 
 Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan\*, Li Pan\*. SIGKDD 2021 _(CCF-A)_)
 <br>[[poster](/assets/cm2ne_poster.pdf)] & [[slides](/assets/cm2ne_slides.pdf)] & [[presentation](https://files.atypon.com/acm/0e525787f8d7f22ebd7bd0516a387a77)] & [[paper](https://dl.acm.org/doi/10.1145/3447548.3467227)]
