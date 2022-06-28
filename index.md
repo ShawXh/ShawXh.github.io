@@ -5,7 +5,7 @@ Apart from that, I am one of the co-founders of **SJTU-Calisthenics**. If you ar
 
 ## Academic Service
 
-I served as a PC of Neurips23/SIGKDD22/ICML22/AAAI22/SDM22.
+I am a reviewer of Neurips23/SIGKDD22/ICML22/AAAI22/SDM22.
 
 ## On-going Projects
 
