@@ -21,6 +21,11 @@ BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding 
 DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020 _(CCF-A)_)
 <br>[[code](https://github.com/awslabs/dgl-ke)] & [[paper](https://arxiv.org/pdf/2004.08532)]
 
+## Contribution to Open-Source Communities
+
+DGL-DeepWalk [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)
+DGL-LINE [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)
+
 ## Working Experience
 
 Applied Scientist Intern @AWS Shanghai AI Lab, 2019.10-2020.04
