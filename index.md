@@ -7,10 +7,6 @@ Apart from that, I am one of the co-founders of **SJTU-Calisthenics**. If you ar
 
 I am a reviewer of Neurips22/SIGKDD22/ICML22/AAAI22/SDM22.
 
-## On-going Projects
-
-Generalization of Neural Combinarotial Optimization
-
 ## Publications
 
 Learning Regularized Noise Contrastive Estimation for Robust Network Embedding (**Hao Xiong**, Junchi Yan\*, Zengfeng Huang. TKDE'22, _(CCF-A)_)
