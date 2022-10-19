@@ -23,9 +23,9 @@ DGL-KE: Training Knowledge Graph Embeddings at Scale (Da Zheng, Xiang Song, Chao
 
 ## Contribution to Open-Source Communities
 
-DGL-DeepWalk [[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]
+DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]: An implementation of paper "DeepWalk: Online Learning of Social Representations" for scalable/distributed training on multi-GPUs.
 
-DGL-LINE [[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]
+DGL-LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]: An implementation of paper "LINE: Large-scale Information Network Embedding" for scalable/distributed training on multi-GPUs.
 
 ## Working Experience
 
