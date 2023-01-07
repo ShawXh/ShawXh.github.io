@@ -5,7 +5,7 @@ Apart from that, I am one of the co-founders of **SJTU-Calisthenics**. If you ar
 
 ## Academic Service
 
-I am a reviewer of Neurips22/SIGKDD22/ICML22/AAAI22/SDM22.
+I am a reviewer of Neurips/SIGKDD/ICML/AAAI/SDM.
 
 ## Publications
 
@@ -44,9 +44,9 @@ B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019
 
 ## Awards
 
-The First Prize of National College Physics Competition (2016.12)
-<br>Honorable Bachelor Degree (2019.06)
 <br>China National Scholarship for Ph.D Students (2021.09)
+<br>Honorable Bachelor Degree (2019.06)
+<br>The First Prize of National College Physics Competition (2016.12)
 
 
 * * *
