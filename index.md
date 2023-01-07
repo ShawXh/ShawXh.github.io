@@ -45,8 +45,8 @@ B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019
 ## Awards
 
 <br>China National Scholarship for Ph.D Students (Sept. 2021)
-<br>Honorable Bachelor Degree (June 2019)
-<br>The Second Prize of National College Student Information Security Contest (Aug. 2018)
+<br>Honorable Bachelor Degree of Engineering (June 2019)
+<br>The Second Prize of National College Student Information Security Contest (Aug. 2018, Advisor: Prof. Gongshen Liu)
 <br>Honorary Scholarship of Zhiyuan Institute (2016, 2017, 2018)
 <br>The Third-Level Scholarship (2016, 2017, 2018)
 <br>The First Prize of National College Physics Competition (Dec. 2016)
