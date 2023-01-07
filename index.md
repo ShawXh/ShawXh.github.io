@@ -13,7 +13,7 @@ M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity (2019.09-202
 
 B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019.06)
 
-## Academic Service
+## Academic Activities
 
 I am a reviewer of Neurips/SIGKDD/ICML/AAAI/SDM.
 
@@ -21,6 +21,12 @@ I am a reviewer of Neurips/SIGKDD/ICML/AAAI/SDM.
 
 Applied Scientist Intern @AWS Shanghai AI Lab, 2019.10-2020.04
 <br>Advisor: Prof. Zheng Zhang & Mentor: Dr. Xiang Song, Dr. Da Zheng
+
+## Contribution to Open-Source Communities
+
+DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]: An implementation of paper "DeepWalk: Online Learning of Social Representations" for scalable/distributed training on multi-GPUs.
+
+DGL-LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]: An implementation of paper "LINE: Large-scale Information Network Embedding" for scalable/distributed training on multi-GPUs.
 
 ## Awards
 
@@ -30,12 +36,6 @@ China National Scholarship for Ph.D Students (Sept. 2021)
 <br>Honorary Scholarship of Zhiyuan Institute (2016, 2017, 2018)
 <br>The Third-Level Scholarship (2016, 2017, 2018)
 <br>The First Prize of National College Physics Competition (Dec. 2016)
-
-## Contribution to Open-Source Communities
-
-DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]: An implementation of paper "DeepWalk: Online Learning of Social Representations" for scalable/distributed training on multi-GPUs.
-
-DGL-LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]: An implementation of paper "LINE: Large-scale Information Network Embedding" for scalable/distributed training on multi-GPUs.
 
 ## Publications
 
