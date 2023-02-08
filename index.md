@@ -30,7 +30,8 @@ DGL-LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/lin
 
 ## Awards
 
-China National Scholarship for Ph.D Students (Sept. 2021)
+Wuwenjun Scholarship (2021, 2022)
+<br>China National Scholarship for Ph.D Students (Sept. 2021)
 <br>Honorable Bachelor Degree of Engineering (June 2019)
 <br>The Second Prize of National College Student Information Security Contest (Aug. 2018, Advisor: Prof. Gongshen Liu)
 <br>Honorary Scholarship of Zhiyuan Institute (2016, 2017, 2018)
