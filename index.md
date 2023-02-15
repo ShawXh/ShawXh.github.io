@@ -48,7 +48,7 @@ Contrastive Multi-View Multiplex Network Embedding with Applications to Robust N
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. **Hao Xiong**, Junchi Yan. TKDE 2020 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/BTWalk)] & [[paper](/assets/btwalk.pdf)]
-<br>Extended Abstract is accepted as the poster in ICDE 2023 (CCF-A)
+<br>Extended abstract is accepted by the TKDE-poster track of ICDE 2023 (CCF-A)
 
 DGL-KE: Training Knowledge Graph Embeddings at Scale. Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020 (CCF-A)
 <br>[[code](https://github.com/awslabs/dgl-ke)] & [[paper](https://arxiv.org/pdf/2004.08532)]
