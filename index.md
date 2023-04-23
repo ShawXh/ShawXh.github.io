@@ -15,7 +15,7 @@ B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019
 
 ## Academic Activities
 
-I am a reviewer of Neurips/SIGKDD/ICML/AAAI/SDM.
+I am a reviewer of Neurips/SIGKDD/ICML/AAAI/SDM/Pattern Recognition.
 
 ## Working Experience
 
@@ -39,6 +39,8 @@ Wuwenjun Scholarship (2021, 2022)
 <br>The First Prize of National College Physics Competition (Dec. 2016)
 
 ## Publications
+
+
 
 Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. **Hao Xiong**, Junchi Yan, Zengfeng Huang. TKDE 2022 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/RNCE)] & [[paper](/assets/rnce.pdf)] & [[a brief intro. (知乎)](https://zhuanlan.zhihu.com/p/466374601)]
