@@ -41,7 +41,7 @@ Wuwenjun Scholarship (2021, 2022)
 ## Publications
 
 Quantum-Inspired Tensorized Network Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan.
-<br>[[preprint](https://openreview.net/pdf?id=bA6h-N17X1E)] [[code](https://github.com/ShawXh/node2ket)]
+<br>[[preprint](https://openreview.net/pdf?id=bA6h-N17X1E)] [[code & data](https://github.com/ShawXh/node2ket)]
 
 Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. **Hao Xiong**, Junchi Yan, Zengfeng Huang. TKDE 2022 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/RNCE)] [[paper](/assets/rnce.pdf)] [[a brief intro. (知乎)](https://zhuanlan.zhihu.com/p/466374601)]
