@@ -15,7 +15,7 @@ B.E., Cyber Science and Engineering, Shanghai Jiao Tong University (2015.09-2019
 
 ## Academic Activities
 
-I am a reviewer of conferences Neurips2022-2023, SIGKDD2022-2023, ICML2022, AAAI2021-2022, 2024, SDM2022, ICLR 2024, and journal Pattern Recognition 2023, and Intelligent Computing 2023.
+I served as a reviewer of conferences including Neurips in 2022-2023, SIGKDD in 2022-2023, ICML in 2022, AAAI in 2021-2022, 2024, SDM in 2022, 2024, ICLR in 2024, and journals Pattern Recognition in 2023, and Intelligent Computing in 2023.
 
 ## Working Experience
 
