@@ -27,7 +27,7 @@ Applied Scientist Intern @AWS Shanghai AI Lab, 2019.10-2020.04
 ### Part-time Job
 
 Motocycle driver, 2023.12-present
-<br>Fitness coach @Huoyingdong Gym, SJTU, 2019.6-present
+<br>Fitness coach @Huoyingdong Gym, SJTU, 2019.09-present
 
 ## Contribution to Open-Source Communities
 
