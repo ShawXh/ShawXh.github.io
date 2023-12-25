@@ -19,8 +19,15 @@ I served as a reviewer of conferences including Neurips in 2022-2023, SIGKDD in 
 
 ## Working Experience
 
+### Internship
+
 Applied Scientist Intern @AWS Shanghai AI Lab, 2019.10-2020.04
 <br>Advisor: Prof. Zheng Zhang & Mentor: Dr. Xiang Song, Dr. Da Zheng
+
+### Part-time Job
+
+Motocycle driver, 2023.12-present
+<br>Fitness coach @Huoyingdong Gym, SJTU, 2019.6-present
 
 ## Contribution to Open-Source Communities
 
