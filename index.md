@@ -48,7 +48,7 @@ Wuwenjun Scholarship (2021, 2022)
 ## Publications
 
 	
-Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. Hao Xiong, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
+Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
 <br> wating...
 
 Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang, Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight** (Tsinghua-A)
