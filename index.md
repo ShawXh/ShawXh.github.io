@@ -47,11 +47,9 @@ Wuwenjun Scholarship (2021, 2022)
 
 ## Publications
 
-	
-Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
-<br> [wating...]
+### Network Embedding
 
-Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
+Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
 <br> [wating...]
 
 Quantum-Inspired Tensorized Network Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan.
@@ -65,6 +63,13 @@ Contrastive Multi-View Multiplex Network Embedding with Applications to Robust N
 
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. **Hao Xiong**, Junchi Yan. TKDE 2020 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/BTWalk)] [[paper](/assets/btwalk.pdf)]
+
+### Quantum Artificial Intelligence
+
+Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
+<br> [wating...]
+
+### Knowledge Graph Embedding & System
 
 DGL-KE: Training Knowledge Graph Embeddings at Scale. Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020 (CCF-A)
 <br>[[code](https://github.com/awslabs/dgl-ke)] [[paper](https://arxiv.org/pdf/2004.08532)]
