@@ -64,7 +64,7 @@ Contrastive Multi-View Multiplex Network Embedding with Applications to Robust N
 BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. **Hao Xiong**, Junchi Yan. TKDE 2020 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/BTWalk)] [[paper](/assets/btwalk.pdf)]
 
-### Quantum Artificial Intelligence
+### Quantum Machine Learning
 
 Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
 <br> [wating...]
