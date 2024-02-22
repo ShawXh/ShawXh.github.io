@@ -50,10 +50,7 @@ Wuwenjun Scholarship (2021, 2022)
 ### Network Embedding
 
 Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
-<br> [wating...]
-
-Quantum-Inspired Tensorized Network Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan.
-<br>[[preprint](https://openreview.net/pdf?id=bA6h-N17X1E)] [[code & data](https://github.com/ShawXh/node2ket)]
+<br> [[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 
 Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. **Hao Xiong**, Junchi Yan, Zengfeng Huang. TKDE 2022 (CCF-A)
 <br>[[code & data](https://github.com/ShawXh/RNCE)] [[paper](/assets/rnce.pdf)] [[a brief intro. (知乎)](https://zhuanlan.zhihu.com/p/466374601)]
