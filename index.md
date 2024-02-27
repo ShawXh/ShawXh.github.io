@@ -63,7 +63,7 @@ BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding.
 
 ### Quantum Machine Learning
 
-Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. **Hao Xiong***, Yehui Tang*, Xinyu Ye*, Junchi Yan. CVPR 2024 (CCF-A)
+Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. **Hao Xiong**&#42;, Yehui Tang&#42;, Xinyu Ye&#42;, Junchi Yan. CVPR 2024 (CCF-A)
 <br> [waiting...]
 
 Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
