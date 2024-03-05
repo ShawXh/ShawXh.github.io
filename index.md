@@ -49,29 +49,36 @@ Wuwenjun Scholarship (2021, 2022)
 
 ### Network Embedding
 
-Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. **Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. ICLR 2024 (Tsinghua-A)
-<br> [[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
+Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. ICLR 2024 (Tsinghua-A)
+<br>**Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. 
+<br>[[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 
-Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. **Hao Xiong**, Junchi Yan, Zengfeng Huang. TKDE 2022 (CCF-A)
+Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. TKDE 2022 (CCF-A)
+<br>**Hao Xiong**, Junchi Yan, Zengfeng Huang. 
 <br>[[code & data](https://github.com/ShawXh/RNCE)] [[paper](/assets/rnce.pdf)] [[a brief intro. (知乎)](https://zhuanlan.zhihu.com/p/466374601)]
 
-Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment (**Hao Xiong**, Junchi Yan, Li Pan. SIGKDD 2021 (CCF-A))
+Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment. SIGKDD 2021 (CCF-A)
+<br> **Hao Xiong**, Junchi Yan, Li Pan.
 <br>[[poster](/assets/cm2ne_poster.pdf)] [[slides](/assets/cm2ne_slides.pdf)] [[video](https://files.atypon.com/acm/0e525787f8d7f22ebd7bd0516a387a77)] [[paper](https://dl.acm.org/doi/10.1145/3447548.3467227)] (sorry for missing code, the machine was formatted by accident without being backed up)
 
-BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. **Hao Xiong**, Junchi Yan. TKDE 2020 (CCF-A)
+BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. TKDE 2020 (CCF-A)
+<br>**Hao Xiong**, Junchi Yan. 
 <br>[[code & data](https://github.com/ShawXh/BTWalk)] [[paper](/assets/btwalk.pdf)]
 
 ### Quantum Machine Learning
 
-Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. **Hao Xiong**&#42;, Yehui Tang&#42;, Xinyu Ye&#42;, Junchi Yan. CVPR 2024 (CCF-A)
+Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. CVPR 2024 (CCF-A)
+<br>**Hao Xiong**&#42;, Yehui Tang&#42;, Xinyu Ye&#42;, Junchi Yan. 
 <br> [waiting...]
 
-Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
+Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. ICLR 2024 **Spotlight (5%)** (Tsinghua-A)
+<br>Yehui Tang, **Hao Xiong**, Nianzu Yang (my super idol), Tailong Xiao, Junchi Yan.
 <br> [waiting...]
 
 ### Knowledge Graph Embedding & System
 
-DGL-KE: Training Knowledge Graph Embeddings at Scale. Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis. SIGIR 2020 (CCF-A)
+DGL-KE: Training Knowledge Graph Embeddings at Scale. SIGIR 2020 (CCF-A)
+<br>Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis.
 <br>[[code](https://github.com/awslabs/dgl-ke)] [[paper](https://arxiv.org/pdf/2004.08532)]
 
 * * *
