@@ -32,9 +32,7 @@ Motocycle driver, 2023.12-present
 
 ## Contribution to Open-Source Communities
 
-DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]: An implementation of paper "DeepWalk: Online Learning of Social Representations" for scalable/distributed training on multi-GPUs.
-
-DGL-LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]: An implementation of paper "LINE: Large-scale Information Network Embedding" for scalable/distributed training on multi-GPUs.
+DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]/LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)]: An implementation of paper ["DeepWalk: Online Learning of Social Representations"](https://arxiv.org/abs/1403.6652) (citation: 10k+) and ["LINE: Large-scale Information Network Embedding"](https://arxiv.org/abs/1503.03578) (citation 6k+) for scalable/distributed training on multi-GPUs.
 
 ## Awards
 
