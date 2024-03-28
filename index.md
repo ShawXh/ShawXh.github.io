@@ -50,7 +50,7 @@ Wuwenjun Scholarship (2021, 2022)
 
 ### Network Embedding
 
-Efficient Network Embedding in the Exponentially Large Quantum Hilbert Space: A High-Dimensional Perspective on Embedding. ICLR 2024 (Tsinghua-A)
+Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space. ICLR 2024 (Tsinghua-A)
 <br>**Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. 
 <br>[[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 
