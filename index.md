@@ -36,7 +36,8 @@ DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb
 
 ## Awards
 
-Wuwenjun Scholarship (2021, 2022)
+Chanmpion of Pull-Up at School Olympics of SJTU (40 pull-ups one time) (May 2024)
+<br>Wuwenjun Scholarship (2021-2024)
 <br>China National Scholarship for Ph.D Students (Sept. 2021)
 <br>Honorable Bachelor Degree of Engineering (June 2019)
 <br>The Second Prize of National College Student Information Security Contest (Aug. 2018, Advisor: Prof. Gongshen Liu)
