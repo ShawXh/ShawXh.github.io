@@ -36,7 +36,7 @@ DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb
 
 ## Awards
 
-Chanmpion of Pull-Up at School Olympics of SJTU (40 pull-ups one time) (May 2024)
+Chanmpion of Pull-Up at the 50th School Olympics of SJTU (40 pull-ups one time, the first record of pull-up in the event) (May 2024)
 <br>Wuwenjun Scholarship (2021-2024)
 <br>China National Scholarship for Ph.D Students (Sept. 2021)
 <br>Honorable Bachelor Degree of Engineering (June 2019)
