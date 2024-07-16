@@ -1,3 +1,5 @@
+# <p style="color: red;">I AM LOOKING FOR Academic/Industrial JOBS </p>
+
 I am currently a Ph.D. student at Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by [Prof.Junchi Yan](https://thinklab.sjtu.edu.cn/)(SJTU) and [Prof.Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/)(UNSW). My research interests include quantum artificial intelligence, data mining on graphs, and solving combinatorial problems.
 <br>Here are my [CV](/assets/cv.pdf) and [the google scholar page](https://scholar.google.co.jp/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F6Ug2uy8TTz9LLUVImqS1GvxF8szHNXC6qjtWCkWtPJgsSqaWriZd18DqwBhSmlZolhOVZyFR0t9pq4BYZi9ceipdUwrZFU3f8L9Z_9WYOPEy4l6Vs&user=ytxxSWAAAAAJ).
 
