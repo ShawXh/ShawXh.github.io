@@ -1,4 +1,4 @@
-I will be joining the Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University as an Assistant Professor in Fall 2025.
+I will be joining the [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/) as an Assistant Professor in Fall 2025.
 
 Prior to this, I received my Ph.D. from [ReThinklab](https://thinklab.sjtu.edu.cn/), at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
  <!-- (SJTU) and Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (UNSW) -->
@@ -8,7 +8,7 @@ My research interests include
 - graph learning and mining
 - combinatorial problem solving via neural and heuristic methods
 
-<span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants. If you are interested, please feel free to contact me!</span>
+<span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants, to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的硕士和博士生以及科研助理，研究方向以上述方向为主，欢迎简历投递！</span>
 
 My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytxxSWAAAAAJ).
 
