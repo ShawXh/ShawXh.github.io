@@ -4,7 +4,7 @@ Prior to this, I received my Ph.D. from [ReThinklab](https://thinklab.sjtu.edu.c
  <!-- (SJTU) and Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (UNSW) -->
 My research interests include
 - quantum artificial intelligence
-- tensor network for machine learning
+- tensor network for (efficient) machine learning
 - graph learning and mining
 - combinatorial problem solving via neural and heuristic methods
 
@@ -21,6 +21,9 @@ My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytx
 ## Publications
 
 ### Quantum(-Inspired)/Tensor-Network-Based Machine Learning
+
+<span style="color: blue; font-style: italic;">[Efficient LLM/Next-Generation NNs]</span> In-place Transparent High-order Product for Transformers. <span style="color: green;">SIGKDD 2025</span> (CCF-A) Research Track 
+<br>**Hao Xiong**&#42;, Yebin Yang&#42;, Huaijin Wu, Xiaoqiu Zhong, Yehui Tang, Zhuo Xia, Xiaoxing Wang, Junchi Yan.
 
 <span style="color: blue; font-style: italic;">[Tensor Network]</span> Tensor Network: from the Perspective of AI4Science and Science4AI. <span style="color: green;">IJCAI 2025</span> (CCF-A) Survey Track 
 <br>Junchi Yan, Yehui Tang, Xinyu Ye, **Hao Xiong**, Xiaoqiu Zhong, Yuhan Wang, Yuan Qi. 
