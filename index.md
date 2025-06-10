@@ -24,6 +24,7 @@ My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytx
 
 <span style="color: blue; font-style: italic;">[Efficient LLM/Next-Generation NNs]</span> In-place Transparent High-order Product for Transformers. <span style="color: green;">SIGKDD 2025</span> (CCF-A) Research Track 
 <br>**Hao Xiong**&#42;, Yebin Yang&#42;, Huaijin Wu, Xiaoqiu Zhong, Yehui Tang, Zhuo Xia, Xiaoxing Wang, Junchi Yan.
+<br>[[paper](https://www.researchgate.net/publication/392419119_Reinvent_the_Operation_not_the_Architecture_Quantum-inspired_High-order_Product_for_Compatible_and_Improved_LLMs_Training)]
 
 <span style="color: blue; font-style: italic;">[Tensor Network]</span> Tensor Network: from the Perspective of AI4Science and Science4AI. <span style="color: green;">IJCAI 2025</span> (CCF-A) Survey Track 
 <br>Junchi Yan, Yehui Tang, Xinyu Ye, **Hao Xiong**, Xiaoqiu Zhong, Yuhan Wang, Yuan Qi. 
