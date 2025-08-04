@@ -22,7 +22,7 @@ My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytx
 
 ### Quantum(-Inspired)/Tensor-Network-Based Machine Learning
 
-<span style="color: blue; font-style: italic;">[Efficient LLM/Next-Generation NNs]</span> In-place Transparent High-order Product for Transformers. <span style="color: #00ff00; font-weight: bold;">SIGKDD 2025</span> (CCF-A) Research Track 
+<span style="color: blue; font-style: italic;">[Efficient LLM/Next-Generation NNs]</span> Reinvent the Operation not the Architecture: Quantum-inspired High-order Product for Compatible and Improved LLMs Training. <span style="color: #00ff00; font-weight: bold;">SIGKDD 2025</span> (CCF-A) Research Track 
 <br>**Hao Xiong**&#42;, Yebin Yang&#42;, Huaijin Wu, Xiaoqiu Zhong, Yehui Tang, Zhuo Xia, Xiaoxing Wang, Junchi Yan.
 <br>[[paper](https://www.researchgate.net/publication/392419119_Reinvent_the_Operation_not_the_Architecture_Quantum-inspired_High-order_Product_for_Compatible_and_Improved_LLMs_Training)]
 
@@ -78,34 +78,36 @@ My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytx
 ## Education
 
 - Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University, 2021 - 2025
-<br>Adivsor: Prof. Junchi Yan 严骏驰<br/>
+<br>Advisor: Prof. Junchi Yan 严骏驰<br/>
 - M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity, 2019 - 2021
 <br>Advisor: Prof. Li Pan 潘理, Prof. Junchi Yan 严骏驰<br/>
 - B.E., Cyber Science and Engineering, Shanghai Jiao Tong University, 2015 - 2019
+<br>Advisor: Prof. Junchi Yan 严骏驰<br/>
 
 ## Academic Activities
 
-I served as a reviewer of conferences including NeurIPS in 2022-2023, SIGKDD in 2022-2024, ICML in 2022, AAAI in 2021-2022, 2024, SDM in 2022, 2024, ICLR in 2024, and journals Pattern Recognition in 2023, and Intelligent Computing in 2023.
+- Conference reviewer: NeurIPS in 2022-2023, SIGKDD in 2022-2024, ICML in 2022, AAAI in 2021-2022, 2024, SDM in 2022, 2024, ICLR in 2024
+- Journal reviewer: Pattern Recognition in 2023, and Intelligent Computing in 2023.
 
 ## Working Experience
 
 - Applied Scientist Intern @AWS Shanghai AI Lab, Oct. 2019 - Apr. 2020
 <br>Advisor: Prof. Zheng Zhang & Mentor: Dr. Xiang Song, Dr. Da Zheng
 <br>I implemented DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]/LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)] for scalable/distributed training on multi-GPUs.
-- Fitness coach & manager @Huoyingdong Gym, SJTU, 2019.09-2025.06
+- (Part-time) fitness coach & manager @Huoyingdong Gym, SJTU, 2019.09-2025.06
 - Teaching assistant of the C++ class @School of Cyber Science and Engineering, SJTU, 2019
 
 ## Awards
 
-- Outstanding Doctorial Graduate of SJTU, 2025
-- Chanmpion of Pull-Up at the 50th School Olympics of SJTU (40 pull-ups one time, the first record of pull-up in the event), May 2024
-- Wuwenjun Scholarship, 2021-2025
-- China National Scholarship for Ph.D Students, 2021
-- Honorable Bachelor Degree of Engineering, June 2019
-- The Second Prize of National College Student Information Security Contest, Aug. 2018, Advisor: Prof. Gongshen Liu
-- Honorary Scholarship of Zhiyuan Institute, 2016-2018
-- The Third-Level Scholarship, 2016-2018
-- The First Prize of National College Physics Competition, Dec. 2016
+- Outstanding Doctorial Graduate of SJTU, 2025 (上海交通大学优秀毕业生)
+- Chanmpion of Pull-Up at the 50th School Olympics of SJTU (40 pull-ups one time, the first record of pull-up in the event), May 2024 (上海交通大学校运会引体向上首个校记录)
+- Wuwenjun Scholarship, 2021-2025 (吴文俊奖学金)
+- China National Scholarship for Ph.D Students, 2021 (博士生国家奖学金)
+- Honorable Bachelor Degree of Engineering, June 2019 (致远荣誉学士学位)
+- The Second Prize of National College Student Information Security Contest, Aug. 2018, Advisor: Prof. Gongshen Liu (全国大学生信息安全大赛二等奖)
+- Honorary Scholarship of Zhiyuan Institute, 2016-2018 (致远荣誉奖学金)
+- The Third-Level Scholarship, 2016-2018 (校级三等奖学金)
+- The First Prize of National College Physics Competition, Dec. 2016 (全国大学生物理竞赛上海赛区非物理专业组一等奖)
 
 * * *
 
