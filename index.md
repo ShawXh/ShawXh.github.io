@@ -1,11 +1,9 @@
-I will be joining the [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/) as an Assistant Professor in Fall 2025.
+I am currently an Assistant Professor of [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/). Prior to this, I received my Ph.D. from ReThinklab at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
 
-Prior to this, I received my Ph.D. from [ReThinklab](https://thinklab.sjtu.edu.cn/), at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
- <!-- (SJTU) and Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (UNSW) -->
 My research interests include
-- quantum artificial intelligence
-- tensor network for (efficient) machine learning
-- graph learning and mining
+- quantum artificial intelligence in the AGI era
+- tensor network for efficient and expressive machine learning
+- graph learning and mining (for recommendation/bio-infomatics)
 - combinatorial problem solving via neural and heuristic methods
 
 <span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants, to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的硕士和博士生以及科研助理，研究方向以上述方向为主，欢迎简历投递！</span>
