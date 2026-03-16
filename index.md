@@ -1,12 +1,12 @@
 I am currently an Assistant Professor of [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/). Prior to this, I received my Ph.D. from ReThinklab at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
 
 My research interests include
-- quantum artificial intelligence in the AGI era
-- tensor network for efficient and expressive machine learning
-- graph learning and mining (for recommendation/bio-infomatics)
-- combinatorial problem solving via neural and heuristic methods
+- AI4Quantum and Quantum4AI (quantum-enhanced/inspired AI, tensor networks)
+- Graph learning and mining (combinatorial optimization, recommendation)
+- LLM + Graph/Quantum
 
-<span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants, to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的硕士和博士生以及科研助理，研究方向以上述方向为主，欢迎简历投递！</span>
+
+<span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants, to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的计算机/物理/数学背景的硕士和博士生以及科研助理，研究方向以上述方向为主，欢迎简历投递！</span>
 
 My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytxxSWAAAAAJ).
 
@@ -15,6 +15,25 @@ My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytx
 <img src="/pics/sjtu.png" alt="rethinklab" width="200px">
 <img src="/pics/fdu.png" width="150px">
 
+## Team Members
+
+Co-authors
+<br>Yehui Tang (SJTU)
+<br>Xinyu Ye (SJTU)
+<br>Mabiao Long (SJTU)
+<br>Xiaoqiu Zhong (SJTU, Shanghai Innovation Institute)
+<br>Yebin Yang (SJTU)
+
+Ph.D Students
+<br>Jianqiao Zeng (2026-, FDU, Shanghai Innovation Institute)
+<br>Zhikai Chen (2026-, FDU)
+
+Undergraduates
+<br>Meiling Jiang (2025-, FDU)
+<br>Fanxi Weng (2025-, FDU)
+<br>Haoxiang Wu (2025-, FDU)
+<br>Wenhan Qu (2025-, FDU)
+<br>Jingyi Cao (2025-, FDU)
 
 ## Publications
 
