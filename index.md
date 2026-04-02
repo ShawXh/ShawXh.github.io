@@ -1,41 +1,20 @@
 I am currently an Assistant Professor of [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/). Prior to this, I received my Ph.D. from ReThinklab at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
 
-My research interests include
+The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Group). The research topics include
 - AI4Quantum and Quantum4AI (quantum-enhanced/inspired AI, tensor networks)
 - Graph learning and mining (combinatorial optimization, recommendation)
 - LLM + Graph/Quantum
 
+<span style="color: red; font-weight: bold; font-size: 20px;">招募<u>有科研热情、敢为人先的</u>计算机/物理背景的本科生/硕士生/博士生/科研助理，欢迎简历投递<u>（请备注申请研究方向）</u>！</span>
 
-<span style="color: red; font-weight: bold; font-size: 20px;">I am actively recruiting self-motivated Master's and Ph.D. students, as well as research assistants, to join us in exploring the exciting topics mentioned above. Your resume is highly welcome! 招募有自驱力的计算机/物理/数学背景的硕士和博士生以及科研助理，研究方向以上述方向为主，欢迎简历投递！</span>
-
-My google scholar page is [here](https://scholar.google.co.jp/citations?user=ytxxSWAAAAAJ).
+[My profile](profile.md). [Lab members](team.md).
 
 <img src="/pics/ai3.png" alt="rethinklab" width="300px">
 <img src="/pics/rethinklab.png" alt="rethinklab" width="200px">
 <img src="/pics/sjtu.png" alt="rethinklab" width="200px">
 <img src="/pics/fdu.png" width="150px">
 
-## Team Members
-
-Co-authors
-<br>Yehui Tang (SJTU)
-<br>Xinyu Ye (SJTU)
-<br>Mabiao Long (SJTU)
-<br>Xiaoqiu Zhong (SJTU, Shanghai Innovation Institute)
-<br>Yebin Yang (SJTU)
-
-Ph.D Students
-<br>Jianqiao Zeng (2026-, FDU, Shanghai Innovation Institute)
-<br>Zhikai Chen (2026-, FDU)
-
-Undergraduates
-<br>Meiling Jiang (2025-, FDU)
-<br>Fanxi Weng (2025-, FDU)
-<br>Haoxiang Wu (2025-, FDU)
-<br>Wenhan Qu (2025-, FDU)
-<br>Jingyi Cao (2025-, FDU)
-
-## Publications
+## Selected Publications ([Full List](publications.md))
 
 ### Quantum(-Inspired)/Tensor-Network-Based Machine Learning
 
@@ -43,27 +22,19 @@ Undergraduates
 <br>**Hao Xiong**&#42;, Yebin Yang&#42;, Huaijin Wu, Xiaoqiu Zhong, Yehui Tang, Zhuo Xia, Xiaoxing Wang, Junchi Yan.
 <br>[[paper](https://www.researchgate.net/publication/392419119_Reinvent_the_Operation_not_the_Architecture_Quantum-inspired_High-order_Product_for_Compatible_and_Improved_LLMs_Training)] [[slides](/assets/holinear_kdd25.pdf)]
 
-<span style="color: blue; font-style: italic;">[Tensor Network]</span> Tensor Network: from the Perspective of AI4Science and Science4AI. <span style="color: #00ff00; font-weight: bold;">IJCAI 2025</span> (CCF-A) Survey Track 
-<br>Junchi Yan, Yehui Tang, Xinyu Ye, **Hao Xiong**, Xiaoqiu Zhong, Yuhan Wang, Yuan Qi. 
-<br>[[paper](https://www.researchgate.net/publication/393417083_Tensor_Network_from_the_Perspective_of_AI4Science_and_Science4AI)]
-
-<span style="color: blue; font-style: italic;">[Quantum Neural Networks]</span> On Designing General and Expressive Quantum Graph Neural Networks with Applications to MILP Instance Representation. <span style="color: #00ff00; font-weight: bold;">ICLR 2025</span> (Tsinghua-A)
-<br>Xinyu Ye, **Hao Xiong**, Jianhao Huang, Ziang Chen, Jia Wang, Junchi Yan.
-<br>[[paper](https://openreview.net/pdf?id=IQi8JOqLuv)]
-
 <span style="color: blue; font-style: italic;">[Quantum Computing]</span> Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. <span style="color: #00ff00; font-weight: bold;">CVPR 2024</span> (CCF-A)
 <br>**Hao Xiong**&#42;, Yehui Tang&#42;, Xinyu Ye&#42;, Junchi Yan. 
 <br>[[code](https://github.com/ShawXh/qip_cvpr24)] [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_Circuit_Design_and_Efficient_Simulation_of_Quantum_Inner_Product_and_CVPR_2024_paper.pdf)]
-
-<span style="color: blue; font-style: italic;">[AI4Quantum]</span> Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. <span style="color: #00ff00; font-weight: bold;">ICLR 2024</span> (Tsinghua-A) **Spotlight (5%)** 
-<br>Yehui Tang, **Hao Xiong**, Nianzu Yang, Tailong Xiao, Junchi Yan.
-<br>[[paper](https://openreview.net/pdf?id=vrBVFXwAmi)]
 
 <span style="color: blue; font-style: italic;">[Tensor/Quantum-inspired Network Embedding]</span> Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space. <span style="color: #00ff00; font-weight: bold;">ICLR 2024</span> (Tsinghua-A)
 <br>**Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. 
 <br>[[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 
-### Network Embedding
+### Graph Learning, Mining and AI for Combinatorial Optimization
+
+<span style="color: blue; font-style: italic;">[DL-Based Neural Solver]</span> UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP. <span style="color: #00ff00; font-weight: bold;">ICLR 2025</span> (Tsinghua-A)
+<br>Wenzheng Pan&#42;, **Hao Xiong**&#42;, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan.
+<br>[[paper](https://openreview.net/pdf?id=yEwakMNIex)] [[code](https://github.com/wzever/UniCO)]
 
 <span style="color: blue; font-style: italic;">[Interpretability]</span> Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. <span style="color: #00ff00; font-weight: bold;">TKDE 2022</span> (CCF-A)
 <br>**Hao Xiong**, Junchi Yan, Zengfeng Huang. 
@@ -73,59 +44,8 @@ Undergraduates
 <br> **Hao Xiong**, Junchi Yan, Li Pan.
 <br>[[poster](/assets/cm2ne_poster.pdf)] [[slides](/assets/cm2ne_slides.pdf)] [[video](https://files.atypon.com/acm/0e525787f8d7f22ebd7bd0516a387a77)] [[paper](https://dl.acm.org/doi/10.1145/3447548.3467227)] (sorry for missing code, the machine was formatted by accident without being backed up)
 
-<span style="color: blue; font-style: italic;">[Cross-Graph Alignment]</span> BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. <span style="color: #00ff00; font-weight: bold;">TKDE 2020</span> (CCF-A)
-<br>**Hao Xiong**, Junchi Yan. 
-<br>[[code & data](https://github.com/ShawXh/BTWalk)] [[paper](/assets/btwalk.pdf)]
 
-### Neural Combinatorial Optimzation
 
-<span style="color: blue; font-style: italic;">[DL-Based Neural Solver]</span> UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP. <span style="color: #00ff00; font-weight: bold;">ICLR 2025</span> (Tsinghua-A)
-<br>Wenzheng Pan&#42;, **Hao Xiong**&#42;, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan.
-<br>[[paper](https://openreview.net/pdf?id=yEwakMNIex)] [[code](https://github.com/wzever/UniCO)]
-
-<span style="color: blue; font-style: italic;">[ML-Enhanced Heuristic]</span> From Graph Embedding to LKH: Bridging Learning and Heuristics for a Streamlined General TSP Solver.
-<br> **Hao Xiong**, Wenzheng Pan, Jianhao Huang, Zhuo Xia, Junchi Yan.
-<br>[[paper](https://openreview.net/pdf?id=iXBYYbYTvX)]
-
-### Knowledge Graph Embedding & System
-
-<span style="color: blue; font-style: italic;">[Knowledge Embedding]</span> DGL-KE: Training Knowledge Graph Embeddings at Scale. <span style="color: #00ff00; font-weight: bold;">SIGIR 2020</span> (CCF-A)
-<br>Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, **Hao Xiong**, Zheng Zhang, George Karypis.
-<br>[[code](https://github.com/awslabs/dgl-ke)] [[paper](https://arxiv.org/pdf/2004.08532)]
-
-## Education
-
-- Ph.D., Computer Science and Engineering, Shanghai Jiao Tong University, 2021 - 2025
-<br>Advisor: Prof. Junchi Yan 严骏驰<br/>
-- M.S., Cyber Science and Engineering, Shanghai Jiao Tong Universeity, 2019 - 2021
-<br>Advisor: Prof. Li Pan 潘理, Prof. Junchi Yan 严骏驰<br/>
-- B.E., Cyber Science and Engineering, Shanghai Jiao Tong University, 2015 - 2019
-<br>Advisor: Prof. Junchi Yan 严骏驰<br/>
-
-## Academic Activities
-
-- Conference reviewer: NeurIPS in 2022-2023, SIGKDD in 2022-2024, ICML in 2022, AAAI in 2021-2022, 2024, SDM in 2022, 2024, ICLR in 2024
-- Journal reviewer: Pattern Recognition in 2023, and Intelligent Computing in 2023.
-
-## Working Experience
-
-- Applied Scientist Intern @AWS Shanghai AI Lab, Oct. 2019 - Apr. 2020
-<br>Advisor: Prof. Zheng Zhang & Mentor: Dr. Xiang Song, Dr. Da Zheng
-<br>I implemented DGL-DeepWalk[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/deepwalk)]/LINE[[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/line)] for scalable/distributed training on multi-GPUs.
-- (Part-time) fitness coach & manager @Huoyingdong Gym, SJTU, 2019.09-2025.06
-- Teaching assistant of the C++ class @School of Cyber Science and Engineering, SJTU, 2019
-
-## Awards
-
-- Outstanding Doctorial Graduate of SJTU, 2025 (上海交通大学优秀毕业生)
-- Chanmpion of Pull-Up at the 50th School Olympics of SJTU (40 pull-ups one time, the first record of pull-up in the event), May 2024 (上海交通大学校运会引体向上首个校记录)
-- Wuwenjun Scholarship, 2021-2025 (吴文俊奖学金)
-- China National Scholarship for Ph.D Students, 2021 (博士生国家奖学金)
-- Honorable Bachelor Degree of Engineering, June 2019 (致远荣誉学士学位)
-- The Second Prize of National College Student Information Security Contest, Aug. 2018, Advisor: Prof. Gongshen Liu (全国大学生信息安全大赛二等奖)
-- Honorary Scholarship of Zhiyuan Institute, 2016-2018 (致远荣誉奖学金)
-- The Third-Level Scholarship, 2016-2018 (校级三等奖学金)
-- The First Prize of National College Physics Competition, Dec. 2016 (全国大学生物理竞赛上海赛区非物理专业组一等奖)
 
 * * *
 
