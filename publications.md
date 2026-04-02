@@ -31,7 +31,6 @@
 <br> **Hao Xiong**, Junchi Yan, Li Pan.
 
 <span style="color: blue; font-style: italic;">[Cross-Graph Alignment]</span> BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding. <span style="color: #00ff00; font-weight: bold;">TKDE 2020</span> (CCF-A) [[code & data](https://github.com/ShawXh/BTWalk)] [[paper](/assets/btwalk.pdf)]
-
 <br>**Hao Xiong**, Junchi Yan. 
 
 ### Neural Combinatorial Optimzation
