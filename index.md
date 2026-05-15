@@ -17,7 +17,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 ## News
 
 - Received Silver Reviewer Award by ICML. 05-14
-- 1 paper (spotlight, top 2.2\%) accepted by ICML, cons to Jianqiao! 05-01
+- 1 paper (spotlight, top 2.2%) accepted by ICML. 05-01
 
 
 ## Selected Publications ([Full List](publications.md))
