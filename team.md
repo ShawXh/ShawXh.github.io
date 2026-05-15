@@ -2,14 +2,14 @@
 
 ### Co-authors
 Yehui Tang (SJTU -> Assitant Professor @RUC)
-<br>Xinyu Ye (SJTU -> Bytedance)
+<br>Xinyu Ye (SJTU -> North Carolina)
 <br>Mabiao Long (SJTU, Shanghai Innovation Institute)
 <br>Xiaoqiu Zhong (SJTU, Shanghai Innovation Institute)
 <br>Yebin Yang (SJTU)
 <br>Wenzheng Pan (SJTU)
 
 ### Ph.D Students
-Jianqiao Zeng (2025-, FDU, Shanghai Innovation Institute)
+Jianqiao Zeng (2025-, FDU, Shanghai Innovation Institute, ICML26一作)
 <br>Zhikai Chen (2025-, FDU)
 
 ### Master Students

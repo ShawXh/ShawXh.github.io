@@ -10,7 +10,7 @@
 ## Academic Activities
 
 - Conference reviewer: NeurIPS in 2022-2023, SIGKDD in 2022-2024, ICML in 2022, AAAI in 2021-2022, 2024, SDM in 2022, 2024, ICLR in 2024
-- Journal reviewer: Pattern Recognition in 2023, and Intelligent Computing in 2023.
+- Journal reviewer: Pattern Recognition in 2023, and Intelligent Computing in 2023, Vision Intelligence in 2026
 
 ## Working Experience
 
@@ -22,6 +22,7 @@
 
 ## Awards
 
+- Silver Reviewer Award, ICML 2026.
 - Outstanding Doctorial Graduate of SJTU, 2025 (上海交通大学优秀毕业生)
 - Chanmpion of Pull-Up at the 50th School Olympics of SJTU (40 pull-ups one time, the first record of pull-up in the event), May 2024 (上海交通大学校运会引体向上首个校记录)
 - Wuwenjun Scholarship, 2021-2025 (吴文俊奖学金)

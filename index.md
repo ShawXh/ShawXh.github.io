@@ -14,6 +14,12 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 <img src="/pics/sjtu.png" alt="rethinklab" width="200px">
 <img src="/pics/fdu.png" width="150px">
 
+## News
+
+- Received Silver Reviewer Award by ICML. 05-14
+- 1 paper (spotlight, top 2.2\%) accepted by ICML, cons to Jianqiao! 05-01
+
+
 ## Selected Publications ([Full List](publications.md))
 
 ### Quantum(-Inspired)/Tensor-Network-Based Machine Learning
