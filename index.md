@@ -1,3 +1,5 @@
+## Enthusiastic About AI, Quantum Computing, and Graph Learning
+
 I am currently an Assistant Professor of [Artificial Intelligence Innovation and Incubation (AI³) Institute at Fudan University](https://ai3.fudan.edu.cn/). Prior to this, I received my Ph.D. from ReThinklab at the Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Junchi Yan (严骏驰)](https://thinklab.sjtu.edu.cn/).
 
 The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Group). The research topics include
@@ -7,7 +9,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 
 <span style="color: red; font-weight: bold; font-size: 20px;">招募<u>有科研热情、敢为人先的</u>计算机/物理背景的本科生/硕士生/博士生/科研助理，欢迎简历投递<u>（请备注申请研究方向）</u>！</span>
 
-[My profile](profile.md). [Lab members](team.md).
+[About Me](profile.md). [Lab Members](team.md).
 
 <img src="/pics/ai3.png" alt="rethinklab" width="300px">
 <img src="/pics/rethinklab.png" alt="rethinklab" width="200px">
@@ -17,7 +19,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 ## News
 
 - Received Silver Reviewer Award by ICML. 05-14
-- 1 paper (spotlight, top 2.2%) accepted by ICML. 05-01
+- 1 paper (oral) accepted by ICML. 05-01
 
 
 ## Selected Publications ([Full List](publications.md))
@@ -36,7 +38,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 <br>**Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. 
 <br>[[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 
-### Graph Learning, Mining and AI for Combinatorial Optimization
+### Graph Learning and Mining \& AI for Combinatorial Optimization
 
 <span style="color: blue; font-style: italic;">[DL-Based Neural Solver]</span> UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP. <span style="color: #00ff00; font-weight: bold;">ICLR 2025</span> (Tsinghua-A)
 <br>Wenzheng Pan&#42;, **Hao Xiong**&#42;, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan.
