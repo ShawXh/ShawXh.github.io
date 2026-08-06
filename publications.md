@@ -44,6 +44,6 @@
 
 ### AI for Scientific Computing
 
-<span style="color: blue; font-style: italic;">[Neural Operator]</span> CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer. <span style="color: #00ff00; font-weight: bold;">NeurIPS 2024</span> (Tsinghua-A) [[paper](https://openreview.net/pdf?id=example)]
+<span style="color: blue; font-style: italic;">[Neural Operator]</span> CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer. <span style="color: #00ff00; font-weight: bold;">ICML 2026</span> (CCF-A) [[paper](https://openreview.net/pdf?id=pG9Wn3Aheq)]
 <br> Jianqiao Zeng, Ruocheng Wang, Yanzhi Liu, **Hao Xiong&#8224;**, Junchi Yan&#8224;.
 

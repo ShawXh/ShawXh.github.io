@@ -24,7 +24,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 
 ## Selected Publications ([Full List](publications.md))
 
-### Quantum(-Inspired)/Tensor-Network-Based Machine Learning
+### Quantum(-Inspired) Machine Learning
 
 <span style="color: blue; font-style: italic;">[Efficient LLM/Next-Generation NNs]</span> Reinvent the Operation not the Architecture: Quantum-inspired High-order Product for Compatible and Improved LLMs Training. <span style="color: #00ff00; font-weight: bold;">SIGKDD 2025</span> (CCF-A) Research Track 
 <br>**Hao Xiong**&#42;, Yebin Yang&#42;, Huaijin Wu, Xiaoqiu Zhong, Yehui Tang, Zhuo Xia, Xiaoxing Wang, Junchi Yan.
