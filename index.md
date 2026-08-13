@@ -18,6 +18,7 @@ The Lab is named as RethinkLab-IIRG (Interdisciplinary Intelligence Research Gro
 
 ## News
 
+- 1 paper accepted by TKDE. 08-12
 - Received Silver Reviewer Award by ICML. 05-14
 - 1 paper (oral) accepted by ICML. 05-01
 
