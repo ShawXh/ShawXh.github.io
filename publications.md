@@ -14,13 +14,16 @@
 <span style="color: blue; font-style: italic;">[Quantum Computing]</span> Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning. <span style="color: #00ff00; font-weight: bold;">CVPR 2024</span> (CCF-A) [[code](https://github.com/ShawXh/qip_cvpr24)] [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_Circuit_Design_and_Efficient_Simulation_of_Quantum_Inner_Product_and_CVPR_2024_paper.pdf)]
 <br>**Hao Xiong**&#42;, Yehui Tang&#42;, Xinyu Ye&#42;, Junchi Yan. 
 
-<span style="color: blue; font-style: italic;">[AI4Quantum]</span> Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. <span style="color: #00ff00; font-weight: bold;">ICLR 2024</span> (Tsinghua-A) **Spotlight (5%)** [[paper](https://openreview.net/pdf?id=vrBVFXwAmi)]
+<span style="color: blue; font-style: italic;">[AI4Quantum]</span> Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation. <span style="color: #00ff00; font-weight: bold;">ICLR 2024</span> (Tsinghua-A) **Spotlight (5\%)** [[paper](https://openreview.net/pdf?id=vrBVFXwAmi)]
 <br>Yehui Tang, **Hao Xiong**, Nianzu Yang, Tailong Xiao, Junchi Yan.
 
 <span style="color: blue; font-style: italic;">[Tensor/Quantum-inspired Network Embedding]</span> Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space. <span style="color: #00ff00; font-weight: bold;">ICLR 2024</span> (Tsinghua-A) [[code & data](https://github.com/ShawXh/node2ket)] [[paper](https://openreview.net/forum?id=lROh08eK6n)]
 <br>**Hao Xiong**, Yehui Tang, Yunlin He, Wei Tan, Junchi Yan. 
 
 ### Graph Embedding
+
+<span style="color: blue; font-style: italic;">[Dynamic Heterogeneous Graph Embedding]</span> Towards Practical Large-scale Dynamic Heterogeneous Graph Embedding: Cold-start Resilient Recommendation. <span style="color: #00ff00; font-weight: bold;">TKDE 2026</span> (CCF-A) 
+<br> Mabiao Long, Jiaxi Liu, Yufeng Li, Kefan Wang, Yi Cao, Jiandong Ding, **Hao Xiong&#8224;**, Junchi Yan&#8224;
 
 <span style="color: blue; font-style: italic;">[Interpretability]</span> Learning Regularized Noise Contrastive Estimation for Robust Network Embedding. <span style="color: #00ff00; font-weight: bold;">TKDE 2022</span> (CCF-A) [[code & data](https://github.com/ShawXh/RNCE)] [[paper](/assets/rnce.pdf)] [[a brief intro. (知乎)](https://zhuanlan.zhihu.com/p/466374601)]
 <br>**Hao Xiong**, Junchi Yan, Zengfeng Huang. 
@@ -44,6 +47,6 @@
 
 ### AI for Scientific Computing
 
-<span style="color: blue; font-style: italic;">[Neural Operator]</span> CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer. <span style="color: #00ff00; font-weight: bold;">ICML 2026</span> (CCF-A) [[paper](https://openreview.net/pdf?id=pG9Wn3Aheq)]
+<span style="color: blue; font-style: italic;">[Neural Operator]</span> CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer. <span style="color: #00ff00; font-weight: bold;">ICML 2026</span> (CCF-A) **Oral** [[paper](https://openreview.net/pdf?id=pG9Wn3Aheq)]
 <br> Jianqiao Zeng, Ruocheng Wang, Yanzhi Liu, **Hao Xiong&#8224;**, Junchi Yan&#8224;.
 
